@@ -8,4 +8,4 @@ https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is
 
 ## Contents
 - `Movies Project.sql`: SQL file that contains my processes in building a movie database
-- `films.csv': resulting table after performing SQL queries
+- `films.csv`: resulting table after performing SQL queries
